@@ -236,7 +236,7 @@
     "zone.js": "0.8.26"
   },
   "devDependencies": {
-    "@angular/cli": "1.7.4",
+    "@angular/cli": "15.0.0",
     "@biesbjerg/ngx-translate-extract": "2.3.4",
     "@ionic-native-mocks/android-fingerprint-auth": "2.0.12",
     "@ionic-native-mocks/fcm": "2.0.12",
